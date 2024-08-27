@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm J-D-J123</h1>
 <h3 align="center">I am a person who loves to learn and program </h3>
 
-- 🌱 I’m currently a freshman and learning CS
-- 🧑‍💻 Learning C
+- 🌱 I’m currently a freshman at The University of Missouri - Columbia 
+- 🧑‍💻 Majoring in CS
+- ✍️ Learning C
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
