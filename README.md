@@ -10,7 +10,7 @@
 ### 👨‍🎓 About Me
 - 🎓 Freshman at **The University of Missouri - Columbia**
 - 💻 Computer Science Major
-- 🤖 Currently building my own neural network in Python as well as working on Just-a-Game 🎮
+- 🤖 Building my own neural network in Python as well as working on Just-a-Game
 - 📚 Learning C programming, as well as Native React with the Expo framework
 - 🌟 Always excited to learn!
 
