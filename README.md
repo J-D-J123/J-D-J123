@@ -61,7 +61,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-D-J123&show_icons=true&theme=radical" alt="GitHub Stats" /><br/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=J-D-J123&show_icons=true&theme=radical" alt="GitHub Stats" /><br/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=j-d-j123&show_icons=true&theme=radical&cache_seconds=1800" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-D-J123&theme=radical" alt="GitHub Streak" /><br/>
   <img src="https://komarev.com/ghpvc/?username=j-d-j123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
