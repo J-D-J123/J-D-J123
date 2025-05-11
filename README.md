@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World, I'm <span style="color:#FF69B4">J-D-J123</span>!</h1>
-<h3 align="center">💡 Computer Science student | 🧩 Puzzle Solver | 🛠️ Passionate Builder</h3>
+<h3 align="center">💡 Computer Science student | 🧩 Puzzle Solver </h3>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b72808ff-1cbb-416a-958c-3fa8ae6240b2" alt="Programming GIF" width="200"/>
@@ -11,8 +11,8 @@
 
 - 🎓 Freshman at **The University of Missouri - Columbia**
 - 💻 Major: **Computer Science**
-- 🧠 Currently building a **neural network** in Python and working on **Just-a-Game**
-- 📚 Learning **C programming** and **React Native with Expo**
+- 🧠 Currently: building a **FOCUS** application
+- 📚 Learning: **Expo React Native**
 - 🌟 Always curious and excited to grow!
 
 ---
