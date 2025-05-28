@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World, I'm <span style="color:#FF69B4">J-D-J123</span>!</h1>
-<h3 align="center">💡 Computer Science student | 🧩 Puzzle Solver </h3>
+<h3 align="center">💡 Computer Science student | 🧩 Problem Solver </h3>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b72808ff-1cbb-416a-958c-3fa8ae6240b2" alt="Programming GIF" width="200"/>
@@ -9,15 +9,18 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 Freshman at **The University of Missouri - Columbia**
+- 🎓 Sophomore at **The University of Missouri - Columbia**
 - 💻 Major: **Computer Science**
-- 🧠 Currently: building a **FOCUS** application
+- 🧠 Currently: building a **FOCUS** application (TIme Tracker)
 - 📚 Learning: **Expo React Native**
-- 🌟 Always curious and excited to grow!
+- 🌟 Always curious and excited to learn!
 
 ---
 
 ## 🚀 Projects
+
+- 🤓 [**FOCUS**](https://github.com/J-D-J123/FOCUS)  
+  A Study time tracker that helps you study!
 
 - 🔧 [**TigerHacks Project**](https://github.com/J-D-J123/TigerHacks_Har)  
   Hackathon project developed during the 2024 TigerHacks event.
