@@ -11,9 +11,7 @@
 
 - 🎓 Sophomore at **The University of Missouri - Columbia**
 - 💻 Major: **Computer Science**
-- 🧠 Currently: building **SWAPALAZA** a marketplace for students and designed by one
-- 📚 Learning: Everything
-
+- 🧠 Currently: building **SWAPALAZA** a marketplace for students by a student
 ---
 
 ## 🚀 Projects
