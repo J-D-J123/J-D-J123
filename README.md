@@ -1,20 +1,12 @@
-<h1 align="center">👋 Hello World, I'm <span style="color:#FF69B4">J-D-J123</span>!</h1>
-<h3 align="center">💡 Computer Science student | 🧩 Problem Solver </h3>
+<h1 align="center">Hello World, I'm <span style="color:#FF69B4">J-D-J123</span>!</h1>
+<h3 align="center">Computer Science student | Problem Solver </h3>
 
 <!-- <div align="center">
   <img src="https://github.com/user-attachments/assets/b72808ff-1cbb-416a-958c-3fa8ae6240b2" alt="Programming GIF" width="200"/>
 </div> -->
 
----
 
-## 👨‍🎓 About Me
-
-- 🎓 Sophomore at **The University of Missouri - Columbia**
-- 💻 Major: **Computer Science**
-- 🧠 Currently: building **SWAPALAZA** a marketplace for students by a student
----
-
-## 🚀 Projects
+## Projects
 
 - 🤓 [**FOCUS**](https://github.com/J-D-J123/FOCUS)  
   A Study time tracker that helps you study!
