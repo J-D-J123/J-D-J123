@@ -1,28 +1,45 @@
-<h1 align="center">Hello World, I'm <span style="color:#FF69B4">J-D-J123</span>!</h1>
-<h3 align="center">Computer Science student | Problem Solver </h3>
+<h1 align="center">Hello World, I'm <span style="color:#FF69B4">Joey</span>!</h1>
+<h3 align="center">Computer Science Student @ University of Missorui</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jjohnson-mizzou/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
+
 
 <!-- <div align="center">
   <img src="https://github.com/user-attachments/assets/b72808ff-1cbb-416a-958c-3fa8ae6240b2" alt="Programming GIF" width="200"/>
 </div> -->
 
 
-## Projects
+## Personal Projects
 
-- 🤓 [**FOCUS**](https://github.com/J-D-J123/FOCUS)  
+- [**Search-Engine**](https://github.com/J-D-J123/search-engine)<br>
+  A secure search engine using DuckDuckGo, Brave, and FireFox all routed through Tor. 
+
+- [**FOCUS**](https://github.com/J-D-J123/FOCUS)<br>
   A Study time tracker that helps you study!
-
-- 🔧 [**TigerHacks Project**](https://github.com/J-D-J123/TigerHacks_Har)  
+  
+<!--
+- [**TigerHacks Project**](https://github.com/J-D-J123/TigerHacks_Har)<br>
   Hackathon project developed during the 2024 TigerHacks event.
+  </div> -->
 
-- 👾 [**Just A Game**](https://github.com/J-D-J123/just-a-game)  
+- [**Just A Game**](https://github.com/J-D-J123/just-a-game)<br>
   A game featuring fun and **jumpscares** (_you’ve been warned!_)
 
+- [**Number Guessing Game**](https://github.com/J-D-J123/GuessingNumberGame)<br>
+  Simple fun number guessing game in the terminal. 
+  
+<!--
 - 📂 [**CS2050**](https://github.com/J-D-J123/cs2050)  
   My journey through foundational Computer Science coursework.
+  </div> -->
 
----
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -52,9 +69,23 @@
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   </a>
+  <a href="https://www.electronjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
+  </a>
 </p>
 
+
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=J-D-J123&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+
+
+
+
+
 
 <!-- <div align="center"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=J-D-J123&show_icons=true&theme=radical" alt="GitHub Stats" /><br/> -->
