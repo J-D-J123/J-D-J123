@@ -75,7 +75,6 @@
 </p>
 
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=J-D-J123&show_icons=true&theme=dark" alt="GitHub Stats" />
