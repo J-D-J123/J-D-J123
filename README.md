@@ -16,9 +16,6 @@
 
 ## Personal Projects
 
-- [**Search-Engine**](https://github.com/J-D-J123/search-engine)<br>
-  A secure search engine using DuckDuckGo, Brave, and FireFox all routed through Tor. 
-
 - [**FOCUS**](https://github.com/J-D-J123/FOCUS)<br>
   A Study time tracker that helps you study!
   
