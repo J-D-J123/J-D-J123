@@ -36,6 +36,7 @@
   </div> -->
 
 
+<!--
 ## Tech Stack
 
 <p align="center">
@@ -70,7 +71,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
   </a>
 </p>
-
+-->
 
 
 <p align="center">
