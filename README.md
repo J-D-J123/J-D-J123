@@ -36,7 +36,7 @@
   </div> -->
 
 
-<!--
+
 ## Tech Stack
 
 <p align="center">
@@ -71,12 +71,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
   </a>
 </p>
--->
 
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=J-D-J123&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+
+-->
 
 
 
