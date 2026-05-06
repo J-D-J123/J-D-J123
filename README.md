@@ -16,16 +16,24 @@
 
 ## Personal Projects
 
+- [**LOCK-IN**](https://github.com/J-D-J123/LOCK-IN)<br>
+  AI-tool that tracks when you use your phone.
+
+- [**Spaceship Survial**](https://github.com/J-D-J123/TigerHacks-2025-Hackathon)<br>
+  A PyGame game where you earn credits by surviving and upgrade your ship.
+
+<!--
 - [**FOCUS**](https://github.com/J-D-J123/FOCUS)<br>
   A Study time tracker that helps you study!
-  
+    </div> -->
 <!--
 - [**TigerHacks Project**](https://github.com/J-D-J123/TigerHacks_Har)<br>
   Hackathon project developed during the 2024 TigerHacks event.
   </div> -->
-
+<!--
 - [**Just A Game**](https://github.com/J-D-J123/just-a-game)<br>
   A game featuring fun and **jumpscares** (_you’ve been warned!_)
+    </div> -->
 
 - [**Number Guessing Game**](https://github.com/J-D-J123/GuessingNumberGame)<br>
   Simple fun number guessing game in the terminal. 
