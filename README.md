@@ -17,7 +17,7 @@
 ## Personal Projects
 
 - [**LOCK-IN**](https://github.com/J-D-J123/LOCK-IN)<br>
-  AI-tool that tracks when you use your phone.
+  An AI tool that tracks when you use your phone and motivates you to think about your actions.
 
 - [**Spaceship Survial**](https://github.com/J-D-J123/TigerHacks-2025-Hackathon)<br>
   A PyGame game where you earn credits by surviving and upgrade your ship.
