@@ -20,7 +20,7 @@
   An AI tool that tracks when you use your phone and motivates you to think about your actions.
 
 - [**Market-Analyzer**](https://github.com/J-D-J123/market-analyzer)<br>
-  Financial dashboard built with FastAPI and yfinance. Features market data, indices, news sentiment, and social buzz tracking.
+  high-conviction swing trading suite using LSTM+Attention.
 
 - [**Spaceship Survial**](https://github.com/J-D-J123/TigerHacks-2025-Hackathon)<br>
   A PyGame game where you earn credits by surviving and upgrade your ship.
