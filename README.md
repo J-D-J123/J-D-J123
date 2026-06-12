@@ -6,10 +6,6 @@ Cofounder & Lead Developer @ Tonetta.ai
 </p>
 
 <p align="center">
-Founder, Stealth Startup
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/jjohnson-mizzou/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -21,6 +17,14 @@ Founder, Stealth Startup
   <img src="https://github.com/user-attachments/assets/b72808ff-1cbb-416a-958c-3fa8ae6240b2" alt="Programming GIF" width="200"/>
 </div> -->
 
+
+## Startups
+
+- **Tonetta.ai**  
+  Turning average sales reps into high-performing reps. Think autotune, but for sales calls.
+
+- **King of The Curve (KOTC)**  
+  Building tools that help students prepare for the MCAT and other challenging exams.
 
 ## Personal Projects
 
