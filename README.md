@@ -2,6 +2,10 @@
 <h3 align="center">Computer Science Student @ University of Missouri</h3>
 
 <p align="center">
+Cofounder & Lead Developer @ Tonetta.ai
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jjohnson-mizzou/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
   </a>
