@@ -20,10 +20,10 @@ Cofounder & Lead Developer @ Tonetta.ai
 
 ## Startups
 
-- **Tonetta.ai**  
+- [**Tonetta.ai**](https://www.tonetta.ai/)<br>
   Turning average sales reps into high-performing reps. Think autotune, but for sales calls.
 
-- **King of The Curve (KOTC)**  
+- [**King of The Curve (KOTC)**](https://kingofthecurve.org/)<br>
   Building tools that help students prepare for the MCAT and other challenging exams.
 
 ## Personal Projects
