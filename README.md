@@ -28,6 +28,9 @@ Cofounder & Lead Developer @ Tonetta.ai
 
 ## Personal Projects
 
+-  [**Tab-Cleaner**](https://github.com/J-D-J123/Tab-Cleaner)<br>
+  A Chrome / Chromium browser extension that automatically wipes your browsing data every time you close a tab. 
+
 - [**LOCK-IN**](https://github.com/J-D-J123/LOCK-IN)<br>
   An AI tool that tracks when you use your phone and motivates you to think about your actions.
 
