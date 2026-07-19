@@ -1,9 +1,9 @@
 <h1 align="center">Hello World, I'm <span style="color:#FF69B4">Joseph</span>!</h1>
 <h3 align="center">Computer Science Student @ University of Missouri</h3>
 
-<p align="center">
+<!-- <p align="center">
 Cofounder & Lead Developer @ Tonetta.ai
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jjohnson-mizzou/" target="_blank">
