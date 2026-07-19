@@ -31,6 +31,9 @@ Cofounder & Lead Developer @ Tonetta.ai
 -  [**Number-Neural-Network**](https://github.com/J-D-J123/number-neural-network)<br>
   A handwriteen number classifer neural network trained and tested on the MINST dataset all in C with little to no help from AI.
 
+-  [**Firewall-Cycle-Monitor**](https://github.com/J-D-J123/Firewall-Cycle-Monitor)<br>
+  A Windows privacy tool that intercepts the network requests applications make through a local proxy. You decide if you block their traffic.
+
 -  [**Tab-Cleaner**](https://github.com/J-D-J123/Tab-Cleaner)<br>
   A Chrome / Chromium browser extension that automatically wipes your browsing data every time you close a tab. 
 
