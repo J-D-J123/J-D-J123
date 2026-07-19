@@ -28,11 +28,11 @@ Cofounder & Lead Developer @ Tonetta.ai
 
 ## Personal Projects
 
+-  [**Number-Neural-Network**](https://github.com/J-D-J123/number-neural-network)<br>
+  A handwriteen number classifer all in C with little to zero help from AI.
+
 -  [**Tab-Cleaner**](https://github.com/J-D-J123/Tab-Cleaner)<br>
   A Chrome / Chromium browser extension that automatically wipes your browsing data every time you close a tab. 
-
-- [**LOCK-IN**](https://github.com/J-D-J123/LOCK-IN)<br>
-  An AI tool that tracks when you use your phone and motivates you to think about your actions.
 
 - [**Spaceship Survial**](https://github.com/J-D-J123/TigerHacks-2025-Hackathon)<br>
   A PyGame game where you earn credits by surviving and upgrade your ship.
