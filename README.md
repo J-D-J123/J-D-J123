@@ -29,7 +29,7 @@ Cofounder & Lead Developer @ Tonetta.ai
 ## Personal Projects
 
 -  [**Number-Neural-Network**](https://github.com/J-D-J123/number-neural-network)<br>
-  A handwriteen number classifer all in C with little to zero help from AI.
+  A handwriteen number classifer neural network trained and tested on the MINST dataset all in C with little to no help from AI.
 
 -  [**Tab-Cleaner**](https://github.com/J-D-J123/Tab-Cleaner)<br>
   A Chrome / Chromium browser extension that automatically wipes your browsing data every time you close a tab. 
