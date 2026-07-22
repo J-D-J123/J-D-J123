@@ -31,6 +31,9 @@ Cofounder & Lead Developer @ Tonetta.ai
 -  [**Number-Neural-Network**](https://github.com/J-D-J123/number-neural-network)<br>
   A handwriteen number classifer neural network trained and tested on the MINST dataset all in C with little to no help from AI.
 
+-  [**cs4610-computer-graphics**](https://github.com/J-D-J123/cs4610-computer-graphics/tree/main)<br>
+  Projects and assignments covering computer graphics concetps, including line drawing algoirhtms From line drawing algorithms and coordinate transformations between object, world, and display coordinates. 
+
 -  [**Firewall-Cycle-Monitor**](https://github.com/J-D-J123/Firewall-Cycle-Monitor)<br>
   A Windows privacy tool that intercepts the network requests applications make through a local proxy. You decide if you block their traffic.
 
