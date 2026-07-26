@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm <span style="color:#FF69B4">Joseph</span>!</h1>
+<h1 align="center">Hello World, I'm <span style="color:#FF69B4"><a href="https://j-d-j123.github.io"><strong>Joseph</strong></a></span>!</h1>
 <h3 align="center">Computer Science Student @ University of Missouri</h3>
 
 <!-- <p align="center">
@@ -9,8 +9,6 @@ Cofounder & Lead Developer @ Tonetta.ai
   <a href="https://www.linkedin.com/in/jjohnson-mizzou/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-</p>
-
 
 
 <!-- <div align="center">
@@ -21,7 +19,8 @@ Cofounder & Lead Developer @ Tonetta.ai
 ## Startups
 
 - [**Tonetta.ai**](https://www.tonetta.ai/)<br>
-  Turning average sales reps into high-performing reps. Think autotune, but for sales calls.
+  Voice enhancement tool that uses real-time audio processing to optimize tone, pacing, and vocal delivery during sales calls.<br>
+  [**Tonetta Applictaion**](https://github.com/IsaacRider/DesktopApplication) | [**Tonetta Website**](https://github.com/IsaacRider/tonetta-web) | [**Tonetta Server**](https://github.com/IsaacRider/ServerBackup)<br>
 
 - [**King of The Curve (KOTC)**](https://kingofthecurve.org/)<br>
   Building tools that help students prepare for the MCAT and other challenging exams.
@@ -34,14 +33,18 @@ Cofounder & Lead Developer @ Tonetta.ai
 -  [**cs4610-computer-graphics**](https://github.com/J-D-J123/cs4610-computer-graphics/tree/main)<br>
   Projects and assignments covering computer graphics concetps, including line drawing algoirhtms From line drawing algorithms and coordinate transformations between object, world, and display coordinates. 
 
+<!--
 -  [**Firewall-Cycle-Monitor**](https://github.com/J-D-J123/Firewall-Cycle-Monitor)<br>
   A Windows privacy tool that intercepts the network requests applications make through a local proxy. You decide if you block their traffic.
+        </div> -->
 
 -  [**Tab-Cleaner**](https://github.com/J-D-J123/Tab-Cleaner)<br>
   A Chrome / Chromium browser extension that automatically wipes your browsing data every time you close a tab. 
 
+<!--
 - [**Spaceship Survial**](https://github.com/J-D-J123/TigerHacks-2025-Hackathon)<br>
   A PyGame game where you earn credits by surviving and upgrade your ship.
+      </div> -->
 
 <!--
 - [**FOCUS**](https://github.com/J-D-J123/FOCUS)<br>
