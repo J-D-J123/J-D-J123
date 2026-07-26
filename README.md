@@ -39,7 +39,7 @@ Cofounder & Lead Developer @ Tonetta.ai
         </div> -->
 
 -  [**Tab-Cleaner**](https://github.com/J-D-J123/Tab-Cleaner)<br>
-  A Chrome / Chromium browser extension that automatically wipes your browsing data every time you close a tab. 
+  A Chrome / Chromium browser extension that automatically wipes your browsing data every time you close a tab.
 
 <!--
 - [**Spaceship Survial**](https://github.com/J-D-J123/TigerHacks-2025-Hackathon)<br>
@@ -126,9 +126,7 @@ Cofounder & Lead Developer @ Tonetta.ai
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=J-D-J123&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
-
 -->
-
 
 
 
