@@ -27,7 +27,7 @@ Cofounder & Lead Developer @ Tonetta.ai
 
 ## Personal Projects
 
--  [**Number-Neural-Network**](https://github.com/J-D-J123/number-neural-network)<br>
+-  [**Handwritten-Digit-Classifier**](https://github.com/J-D-J123/Handwritten-Digit-Classifier)<br>
   A handwriteen number classifer neural network trained and tested on the MINST dataset all in C with little to no help from AI.
 
 -  [**cs4610-computer-graphics**](https://github.com/J-D-J123/cs4610-computer-graphics/tree/main)<br>
