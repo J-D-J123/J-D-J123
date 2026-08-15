@@ -58,7 +58,7 @@ A missile simulation, (more coming soon)... :)
   </div> -->
 <!--
 - [**Just A Game**](https://github.com/J-D-J123/just-a-game)<br>
-  A game featuring fun and **jumpscares** (_you’ve been warned!_)
+  A game featuring fun and **jump scares** (_you’ve been warned!_)
     </div> -->
 
 - [**Number Guessing Game**](https://github.com/J-D-J123/GuessingNumberGame)<br>
