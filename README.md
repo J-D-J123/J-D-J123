@@ -37,8 +37,11 @@ Cofounder & Lead Developer @ Tonetta.ai
 -  [**Firewall-Cycle-Monitor**](https://github.com/J-D-J123/Firewall-Cycle-Monitor)<br>
   A Windows privacy tool that intercepts the network requests applications make through a local proxy. You decide if you block their traffic.
         </div> -->
+
+  <!--
 - [**M-SIM**](https://github.com/J-D-J123/M-SIM)<br>
 A missile simulation, (more coming soon)... :)
+   -->
 <!--
 -  [**Tab-Cleaner**](https://github.com/J-D-J123/Tab-Cleaner)<br>
   A Chrome / Chromium browser extension that automatically wipes your browsing data every time you close a tab.
