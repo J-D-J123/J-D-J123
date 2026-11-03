@@ -12,7 +12,7 @@ Cofounder & Lead Developer @ Tonetta.ai
 
   <p align="center">
   <!-- <img src="koi/koi.gif" width="256" alt="My koi" /> -->
-    <a href="https://github.com/J-D-J123/git-bonsai "target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/J-D-J123/git-bonsai" target="_blank" rel="noopener noreferrer">
     <img src="bonsai/bonsai.gif" width="256" alt="My bonsai" />
   </a>
 </p>
