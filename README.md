@@ -139,11 +139,6 @@ A missile simulation, (more coming soon)... :)
 <!-- <p align="center">
   <img src="koi/koi.gif" width="256" alt="My koi" />
 </p> -->
-
-[![My Git Plant](https://git-plants.com)](https://www.git-plants.com/)
-
-
-
 <!-- <div align="center"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=J-D-J123&show_icons=true&theme=radical" alt="GitHub Stats" /><br/> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=j-d-j123&show_icons=true&theme=radical&cache_seconds=1800" />
