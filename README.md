@@ -76,7 +76,14 @@ A missile simulation, (more coming soon)... :)
 
 - [**Spaceship Survial**](https://github.com/J-D-J123/TigerHacks-2025-Hackathon)<br>
   A PyGame game where you earn credits by surviving and upgrade your ship.
+
+- [**Truman-Farm-Harvester**](https://github.com/J-D-J123/TigerHacks_Har)<br>
+  Play as Truman the tiger, gather corn around the map and sell it in town.
       </div>
+
+      
+
+<!-- END OF HACKATHONS --> 
 
 <!--
 - [**FOCUS**](https://github.com/J-D-J123/FOCUS)<br>
@@ -91,8 +98,10 @@ A missile simulation, (more coming soon)... :)
   A game featuring fun and **jump scares** (_you’ve been warned!_)
     </div> -->
 
+<!--
 - [**Number Guessing Game**](https://github.com/J-D-J123/GuessingNumberGame)<br>
   Simple fun number guessing game in the terminal. 
+  -->
   
 <!--
 - 📂 [**CS2050**](https://github.com/J-D-J123/cs2050)  
