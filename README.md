@@ -68,7 +68,8 @@ A missile simulation, (more coming soon)... :)
 -  [**Tab-Cleaner**](https://github.com/J-D-J123/Tab-Cleaner)<br>
   A Chrome / Chromium browser extension that automatically wipes your browsing data every time you close a tab.
   -->
-
+  
+<!--
 ## Hackathons
 
 - [**Y.P.I.A (Your Parent Is Aging)**](https://github.com/J-D-J123/Tigerhacks2026)<br>
@@ -80,6 +81,7 @@ A missile simulation, (more coming soon)... :)
 - [**Truman-Farm-Harvester**](https://github.com/J-D-J123/TigerHacks_Har)<br>
   Play as Truman the tiger, gather corn around the map and sell it in town.
       </div>
+    -->
 
       
 
