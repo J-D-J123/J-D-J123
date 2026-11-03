@@ -159,7 +159,8 @@ A missile simulation, (more coming soon)... :)
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40"/></a>
   <a href="https://www.electronjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"/></a>
   <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
+   <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/postgresql/postgresql-original.svg" width="40"/></a>
+  <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/aws-svg-icons@3.0.0-2021-07-30/lib/Resource-Icons_07302021/Res_Storage/Res_48_Light/Res_Amazon-Simple-Storage-Service_S3-Standard_48_Light.svg" width="40"/></a>
   <a href="https://www.cloudflare.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="40"/></a>
 </p>
 
