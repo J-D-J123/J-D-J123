@@ -133,6 +133,7 @@ A missile simulation, (more coming soon)... :)
 </p>
 -->
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
 
 
 
