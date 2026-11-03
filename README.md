@@ -37,11 +37,23 @@ Cofounder & Lead Developer @ Tonetta.ai
 
 ## Personal Projects
 
+-  [**Git-Bonsai**](https://github.com/J-D-J123/git-bonsai)<br>
+  A living pixel-art bonsai for your GitHub profile.
+
 -  [**Handwritten-Digit-Classifier**](https://github.com/J-D-J123/Handwritten-Digit-Classifier)<br>
   A handwritten number classier neural network trained and tested on the MINST dataset all in C with little to no help from AI.
 
+-  [**Ducy-the-Assistant**](https://github.com/J-D-J123/ducky-the-assistant)<br>
+  locally ran assistant LLM to do stuff
+
+- [**Firewall-Cycle-Monitor**](https://github.com/J-D-J123/Firewall-Cycle-Monitor)<br>
+  A personal Windows privacy tool that lets you see, edit, and block the network requests your apps make. 
+
+
+<!--
 -  [**cs4610-computer-graphics**](https://github.com/J-D-J123/cs4610-computer-graphics/tree/main)<br>
   Projects and assignments covering computer graphics concepts, including line drawing algorithms From line drawing algorithms and coordinate transformations between object, world, and display coordinates. 
+  -->
 
 <!--
 -  [**Firewall-Cycle-Monitor**](https://github.com/J-D-J123/Firewall-Cycle-Monitor)<br>
@@ -56,6 +68,11 @@ A missile simulation, (more coming soon)... :)
 -  [**Tab-Cleaner**](https://github.com/J-D-J123/Tab-Cleaner)<br>
   A Chrome / Chromium browser extension that automatically wipes your browsing data every time you close a tab.
   -->
+
+## Hackathons
+
+- [**Y.P.I.A (Your Parent Is Aging)**](https://github.com/J-D-J123/Tigerhacks2026)<br>
+  One calm place where an aging parent stays independent and their family stays close. Built at TigerHacks 2026.
 
 - [**Spaceship Survial**](https://github.com/J-D-J123/TigerHacks-2025-Hackathon)<br>
   A PyGame game where you earn credits by surviving and upgrade your ship.
