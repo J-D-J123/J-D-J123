@@ -136,9 +136,9 @@ A missile simulation, (more coming soon)... :)
   <img src="https://github-readme-stats.vercel.app/api?username=J-D-J123&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 -->
-<p align="center">
+<!-- <p align="center">
   <img src="koi/koi.gif" width="256" alt="My koi" />
-</p>
+</p> -->
 
 
 
