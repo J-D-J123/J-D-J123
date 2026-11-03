@@ -10,6 +10,10 @@ Cofounder & Lead Developer @ Tonetta.ai
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 
+  <p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
+
 
 <!-- <div align="center">
   <img src="https://github.com/user-attachments/assets/b72808ff-1cbb-416a-958c-3fa8ae6240b2" alt="Programming GIF" width="200"/>
@@ -132,9 +136,9 @@ A missile simulation, (more coming soon)... :)
   <img src="https://github-readme-stats.vercel.app/api?username=J-D-J123&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 -->
-
-<img src="koi/koi.gif" width="256" alt="My koi" />
-
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
 
 
 
